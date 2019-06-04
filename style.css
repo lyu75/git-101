@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+h1{
+	font-family: Buenard;
+	font-size: 30;
+	letter-spacing: 30;
+	text-shadow: 1px 1px 2px rgb(130,150,200), 0 0 1em #99d6ff, 0 0 0.2em #99d6ff;
+}
+
+#logo{
+
+}
+
+#background-img{
+	width: 210vh;
+}
+#background-img:hover{
+	filter: blur(2px);
+}
+
+#logo h1{
+	position: absolute;
+	left: 200px;
+	top: 200px;
+	right: 200px;
+}
